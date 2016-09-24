@@ -3,7 +3,7 @@
 
 Name: JIAWEI MO
 
-ONID ID: 932-514-085
+ONID ID: moji
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
